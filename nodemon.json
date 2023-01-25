@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "khayalm",
+        "DB_PASSWORD": "xeyal123",
+        "DB_NAME": "placeshare",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
